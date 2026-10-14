@@ -1,0 +1,11 @@
+payer,encounters,billed,pct_share,cumulative_pct,pct_covered
+NO_INSURANCE,8795,49259290.0,48.5,48.5,0.0
+Medicare,11310,24647229.0,24.3,72.8,78.0
+Medicaid,1438,8954131.0,8.8,81.6,94.0
+Humana,1082,3543921.0,3.5,85.1,0.1
+Blue Cross Blue Shield,925,3002166.0,3.0,88.1,69.1
+Anthem,703,2982715.0,2.9,91.0,0.0
+Aetna,936,2589956.0,2.6,93.6,0.1
+UnitedHealthcare,897,2563508.0,2.5,96.1,0.2
+Cigna Health,808,2424533.0,2.4,98.5,0.0
+Dual Eligible,908,1546926.0,1.5,100.0,89.3

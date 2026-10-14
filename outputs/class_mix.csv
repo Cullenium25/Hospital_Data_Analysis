@@ -1,0 +1,7 @@
+setting,encounters,pct_of_all,avg_days
+ambulatory,12537,44.9,0.395
+outpatient,6300,22.6,0.245
+urgentcare,3666,13.1,0.01
+emergency,2322,8.3,0.064
+wellness,1931,6.9,0.01
+inpatient,1135,4.1,1.535

@@ -1,0 +1,2 @@
+inpatient_stays,mean_los,median_los,max_los,exactly_one_day,pct_exactly_one_day
+1135.0,1.54,1.0,343.8,1077.0,94.9

@@ -1,0 +1,11 @@
+payer,encounters,pct_zero
+Medicaid,1438,0.0
+Medicare,11310,0.0
+Dual Eligible,908,13.5
+Blue Cross Blue Shield,925,36.3
+UnitedHealthcare,897,91.1
+Humana,1082,95.7
+Aetna,936,95.9
+Cigna Health,808,97.6
+Anthem,703,100.0
+NO_INSURANCE,8795,100.0

@@ -1,0 +1,4 @@
+definition,rate_pct,defensible,why,short
+A. Any 2nd encounter in the same month,25.78,No,Measures visit frequency; resets at the month boundary,A. Any 2nd visit in the same month
+B. Patient-months over visits (mixed units),15.66,No,Numerator and denominator count different units,B. Patient-months over visits
+C. Inpatient to inpatient within 30 days,36.0,Yes,Matches how readmission is defined operationally,C. Inpatient within 30 days

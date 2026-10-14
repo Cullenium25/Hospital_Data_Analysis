@@ -1,0 +1,11 @@
+measure,value,population,decision,status
+Encounter volume,"27,891 encounters",2011-2022,Capacity and staffing,Reportable
+Setting of care,"95.9% same-day; 1,135 inpatient",all encounters,Setting-of-care mix,Reportable
+Cost concentration,top 10% = 66.5% of billed cost,encounters with a billed cost,Care-management targeting,Reportable
+Payer concentration,top 2 = 72.8% of billed cost,encounters with a billed cost,Contract priority,Reportable
+Inpatient length of stay,"1.54 days mean, 1.0 median",inpatient only,Bed capacity,"Reportable, median preferred"
+30-day readmission,36.0%,inpatient only,Quality programme,Reportable
+Cost per inpatient stay,"$7,958",inpatient only,Care-management targeting,Reportable
+Patient panel,576 of 974 aged 65+,at 2022-01-01,Service-line demand,Reportable
+Payer coverage rate,30.6%,encounters with a billed cost,Revenue cycle,Not reportable: generator artifact
+Billed-vs-covered gap,$70.4M,encounters with a billed cost,Revenue cycle,Not reportable: generator artifact
